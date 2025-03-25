@@ -1,4 +1,5 @@
 Структура проекта:
+<br>
 Проект хранится в папке src.
 <br>
 папка components - для самих компонентов. Компоненты написаны на Vue 3 Composition API. Single-File Components подход, стили через scoped
